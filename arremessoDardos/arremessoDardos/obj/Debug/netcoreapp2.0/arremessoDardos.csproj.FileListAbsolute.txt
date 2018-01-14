@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\arremessoDardos\arremessoDardos\bin\Debug\netcoreapp2.0\arremessoDardos.deps.json
+C:\Users\User\source\repos\arremessoDardos\arremessoDardos\bin\Debug\netcoreapp2.0\arremessoDardos.runtimeconfig.json
+C:\Users\User\source\repos\arremessoDardos\arremessoDardos\bin\Debug\netcoreapp2.0\arremessoDardos.runtimeconfig.dev.json
+C:\Users\User\source\repos\arremessoDardos\arremessoDardos\bin\Debug\netcoreapp2.0\arremessoDardos.dll
+C:\Users\User\source\repos\arremessoDardos\arremessoDardos\bin\Debug\netcoreapp2.0\arremessoDardos.pdb
+C:\Users\User\source\repos\arremessoDardos\arremessoDardos\obj\Debug\netcoreapp2.0\arremessoDardos.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\arremessoDardos\arremessoDardos\obj\Debug\netcoreapp2.0\arremessoDardos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\arremessoDardos\arremessoDardos\obj\Debug\netcoreapp2.0\arremessoDardos.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\arremessoDardos\arremessoDardos\obj\Debug\netcoreapp2.0\arremessoDardos.AssemblyInfo.cs
+C:\Users\User\source\repos\arremessoDardos\arremessoDardos\obj\Debug\netcoreapp2.0\arremessoDardos.dll
+C:\Users\User\source\repos\arremessoDardos\arremessoDardos\obj\Debug\netcoreapp2.0\arremessoDardos.pdb

@@ -1,0 +1,11 @@
+c:\users\user\source\repos\lista\lista\bin\Debug\netcoreapp2.0\lista.deps.json
+c:\users\user\source\repos\lista\lista\bin\Debug\netcoreapp2.0\lista.runtimeconfig.json
+c:\users\user\source\repos\lista\lista\bin\Debug\netcoreapp2.0\lista.runtimeconfig.dev.json
+c:\users\user\source\repos\lista\lista\bin\Debug\netcoreapp2.0\lista.dll
+c:\users\user\source\repos\lista\lista\bin\Debug\netcoreapp2.0\lista.pdb
+c:\users\user\source\repos\lista\lista\obj\Debug\netcoreapp2.0\lista.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\lista\lista\obj\Debug\netcoreapp2.0\lista.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\lista\lista\obj\Debug\netcoreapp2.0\lista.AssemblyInfoInputs.cache
+c:\users\user\source\repos\lista\lista\obj\Debug\netcoreapp2.0\lista.AssemblyInfo.cs
+c:\users\user\source\repos\lista\lista\obj\Debug\netcoreapp2.0\lista.dll
+c:\users\user\source\repos\lista\lista\obj\Debug\netcoreapp2.0\lista.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\paradaComZero\paradaComZero\bin\Debug\netcoreapp2.0\paradaComZero.deps.json
+C:\Users\User\source\repos\paradaComZero\paradaComZero\bin\Debug\netcoreapp2.0\paradaComZero.runtimeconfig.json
+C:\Users\User\source\repos\paradaComZero\paradaComZero\bin\Debug\netcoreapp2.0\paradaComZero.runtimeconfig.dev.json
+C:\Users\User\source\repos\paradaComZero\paradaComZero\bin\Debug\netcoreapp2.0\paradaComZero.dll
+C:\Users\User\source\repos\paradaComZero\paradaComZero\bin\Debug\netcoreapp2.0\paradaComZero.pdb
+C:\Users\User\source\repos\paradaComZero\paradaComZero\obj\Debug\netcoreapp2.0\paradaComZero.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\paradaComZero\paradaComZero\obj\Debug\netcoreapp2.0\paradaComZero.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\paradaComZero\paradaComZero\obj\Debug\netcoreapp2.0\paradaComZero.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\paradaComZero\paradaComZero\obj\Debug\netcoreapp2.0\paradaComZero.AssemblyInfo.cs
+C:\Users\User\source\repos\paradaComZero\paradaComZero\obj\Debug\netcoreapp2.0\paradaComZero.dll
+C:\Users\User\source\repos\paradaComZero\paradaComZero\obj\Debug\netcoreapp2.0\paradaComZero.pdb

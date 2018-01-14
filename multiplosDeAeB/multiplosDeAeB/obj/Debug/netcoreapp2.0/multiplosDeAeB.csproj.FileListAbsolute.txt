@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\multiplosDeAeB\multiplosDeAeB\bin\Debug\netcoreapp2.0\multiplosDeAeB.deps.json
+C:\Users\User\source\repos\multiplosDeAeB\multiplosDeAeB\bin\Debug\netcoreapp2.0\multiplosDeAeB.runtimeconfig.json
+C:\Users\User\source\repos\multiplosDeAeB\multiplosDeAeB\bin\Debug\netcoreapp2.0\multiplosDeAeB.runtimeconfig.dev.json
+C:\Users\User\source\repos\multiplosDeAeB\multiplosDeAeB\bin\Debug\netcoreapp2.0\multiplosDeAeB.dll
+C:\Users\User\source\repos\multiplosDeAeB\multiplosDeAeB\bin\Debug\netcoreapp2.0\multiplosDeAeB.pdb
+C:\Users\User\source\repos\multiplosDeAeB\multiplosDeAeB\obj\Debug\netcoreapp2.0\multiplosDeAeB.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\multiplosDeAeB\multiplosDeAeB\obj\Debug\netcoreapp2.0\multiplosDeAeB.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\multiplosDeAeB\multiplosDeAeB\obj\Debug\netcoreapp2.0\multiplosDeAeB.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\multiplosDeAeB\multiplosDeAeB\obj\Debug\netcoreapp2.0\multiplosDeAeB.AssemblyInfo.cs
+C:\Users\User\source\repos\multiplosDeAeB\multiplosDeAeB\obj\Debug\netcoreapp2.0\multiplosDeAeB.dll
+C:\Users\User\source\repos\multiplosDeAeB\multiplosDeAeB\obj\Debug\netcoreapp2.0\multiplosDeAeB.pdb

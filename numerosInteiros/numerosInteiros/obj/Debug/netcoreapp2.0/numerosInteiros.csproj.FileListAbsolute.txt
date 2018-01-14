@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\numerosInteiros\numerosInteiros\bin\Debug\netcoreapp2.0\numerosInteiros.deps.json
+C:\Users\User\source\repos\numerosInteiros\numerosInteiros\bin\Debug\netcoreapp2.0\numerosInteiros.runtimeconfig.json
+C:\Users\User\source\repos\numerosInteiros\numerosInteiros\bin\Debug\netcoreapp2.0\numerosInteiros.runtimeconfig.dev.json
+C:\Users\User\source\repos\numerosInteiros\numerosInteiros\bin\Debug\netcoreapp2.0\numerosInteiros.dll
+C:\Users\User\source\repos\numerosInteiros\numerosInteiros\bin\Debug\netcoreapp2.0\numerosInteiros.pdb
+C:\Users\User\source\repos\numerosInteiros\numerosInteiros\obj\Debug\netcoreapp2.0\numerosInteiros.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\numerosInteiros\numerosInteiros\obj\Debug\netcoreapp2.0\numerosInteiros.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\numerosInteiros\numerosInteiros\obj\Debug\netcoreapp2.0\numerosInteiros.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\numerosInteiros\numerosInteiros\obj\Debug\netcoreapp2.0\numerosInteiros.AssemblyInfo.cs
+C:\Users\User\source\repos\numerosInteiros\numerosInteiros\obj\Debug\netcoreapp2.0\numerosInteiros.dll
+C:\Users\User\source\repos\numerosInteiros\numerosInteiros\obj\Debug\netcoreapp2.0\numerosInteiros.pdb

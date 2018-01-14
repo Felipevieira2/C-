@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\contaBancaria\contaBancaria\bin\Debug\netcoreapp2.0\contaBancaria.deps.json
+C:\Users\User\source\repos\contaBancaria\contaBancaria\bin\Debug\netcoreapp2.0\contaBancaria.runtimeconfig.json
+C:\Users\User\source\repos\contaBancaria\contaBancaria\bin\Debug\netcoreapp2.0\contaBancaria.runtimeconfig.dev.json
+C:\Users\User\source\repos\contaBancaria\contaBancaria\bin\Debug\netcoreapp2.0\contaBancaria.dll
+C:\Users\User\source\repos\contaBancaria\contaBancaria\bin\Debug\netcoreapp2.0\contaBancaria.pdb
+C:\Users\User\source\repos\contaBancaria\contaBancaria\obj\Debug\netcoreapp2.0\contaBancaria.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\contaBancaria\contaBancaria\obj\Debug\netcoreapp2.0\contaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\contaBancaria\contaBancaria\obj\Debug\netcoreapp2.0\contaBancaria.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\contaBancaria\contaBancaria\obj\Debug\netcoreapp2.0\contaBancaria.AssemblyInfo.cs
+C:\Users\User\source\repos\contaBancaria\contaBancaria\obj\Debug\netcoreapp2.0\contaBancaria.dll
+C:\Users\User\source\repos\contaBancaria\contaBancaria\obj\Debug\netcoreapp2.0\contaBancaria.pdb

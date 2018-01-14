@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\nivelGlicose\nivelGlicose\bin\Debug\netcoreapp2.0\nivelGlicose.deps.json
+C:\Users\User\source\repos\nivelGlicose\nivelGlicose\bin\Debug\netcoreapp2.0\nivelGlicose.runtimeconfig.json
+C:\Users\User\source\repos\nivelGlicose\nivelGlicose\bin\Debug\netcoreapp2.0\nivelGlicose.runtimeconfig.dev.json
+C:\Users\User\source\repos\nivelGlicose\nivelGlicose\bin\Debug\netcoreapp2.0\nivelGlicose.dll
+C:\Users\User\source\repos\nivelGlicose\nivelGlicose\bin\Debug\netcoreapp2.0\nivelGlicose.pdb
+C:\Users\User\source\repos\nivelGlicose\nivelGlicose\obj\Debug\netcoreapp2.0\nivelGlicose.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\nivelGlicose\nivelGlicose\obj\Debug\netcoreapp2.0\nivelGlicose.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nivelGlicose\nivelGlicose\obj\Debug\netcoreapp2.0\nivelGlicose.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\nivelGlicose\nivelGlicose\obj\Debug\netcoreapp2.0\nivelGlicose.AssemblyInfo.cs
+C:\Users\User\source\repos\nivelGlicose\nivelGlicose\obj\Debug\netcoreapp2.0\nivelGlicose.dll
+C:\Users\User\source\repos\nivelGlicose\nivelGlicose\obj\Debug\netcoreapp2.0\nivelGlicose.pdb

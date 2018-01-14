@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\retrato\retrato\bin\Debug\netcoreapp2.0\retrato.deps.json
+C:\Users\User\source\repos\retrato\retrato\bin\Debug\netcoreapp2.0\retrato.runtimeconfig.json
+C:\Users\User\source\repos\retrato\retrato\bin\Debug\netcoreapp2.0\retrato.runtimeconfig.dev.json
+C:\Users\User\source\repos\retrato\retrato\bin\Debug\netcoreapp2.0\retrato.dll
+C:\Users\User\source\repos\retrato\retrato\bin\Debug\netcoreapp2.0\retrato.pdb
+C:\Users\User\source\repos\retrato\retrato\obj\Debug\netcoreapp2.0\retrato.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\retrato\retrato\obj\Debug\netcoreapp2.0\retrato.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\retrato\retrato\obj\Debug\netcoreapp2.0\retrato.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\retrato\retrato\obj\Debug\netcoreapp2.0\retrato.AssemblyInfo.cs
+C:\Users\User\source\repos\retrato\retrato\obj\Debug\netcoreapp2.0\retrato.dll
+C:\Users\User\source\repos\retrato\retrato\obj\Debug\netcoreapp2.0\retrato.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\bateriaControle\bateriaControle\obj\Debug\netcoreapp2.0\bateriaControle.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\bateriaControle\bateriaControle\obj\Debug\netcoreapp2.0\bateriaControle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bateriaControle\bateriaControle\obj\Debug\netcoreapp2.0\bateriaControle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\bateriaControle\bateriaControle\obj\Debug\netcoreapp2.0\bateriaControle.AssemblyInfo.cs
+C:\Users\User\source\repos\bateriaControle\bateriaControle\bin\Debug\netcoreapp2.0\bateriaControle.deps.json
+C:\Users\User\source\repos\bateriaControle\bateriaControle\bin\Debug\netcoreapp2.0\bateriaControle.runtimeconfig.json
+C:\Users\User\source\repos\bateriaControle\bateriaControle\bin\Debug\netcoreapp2.0\bateriaControle.runtimeconfig.dev.json
+C:\Users\User\source\repos\bateriaControle\bateriaControle\bin\Debug\netcoreapp2.0\bateriaControle.dll
+C:\Users\User\source\repos\bateriaControle\bateriaControle\bin\Debug\netcoreapp2.0\bateriaControle.pdb
+C:\Users\User\source\repos\bateriaControle\bateriaControle\obj\Debug\netcoreapp2.0\bateriaControle.dll
+C:\Users\User\source\repos\bateriaControle\bateriaControle\obj\Debug\netcoreapp2.0\bateriaControle.pdb

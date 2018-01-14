@@ -1,0 +1,11 @@
+c:\users\user\source\repos\CadastroCliente\CadastroCliente\bin\Debug\netcoreapp2.0\CadastroCliente.deps.json
+c:\users\user\source\repos\CadastroCliente\CadastroCliente\bin\Debug\netcoreapp2.0\CadastroCliente.runtimeconfig.json
+c:\users\user\source\repos\CadastroCliente\CadastroCliente\bin\Debug\netcoreapp2.0\CadastroCliente.runtimeconfig.dev.json
+c:\users\user\source\repos\CadastroCliente\CadastroCliente\bin\Debug\netcoreapp2.0\CadastroCliente.dll
+c:\users\user\source\repos\CadastroCliente\CadastroCliente\bin\Debug\netcoreapp2.0\CadastroCliente.pdb
+c:\users\user\source\repos\CadastroCliente\CadastroCliente\obj\Debug\netcoreapp2.0\CadastroCliente.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\CadastroCliente\CadastroCliente\obj\Debug\netcoreapp2.0\CadastroCliente.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\CadastroCliente\CadastroCliente\obj\Debug\netcoreapp2.0\CadastroCliente.AssemblyInfoInputs.cache
+c:\users\user\source\repos\CadastroCliente\CadastroCliente\obj\Debug\netcoreapp2.0\CadastroCliente.AssemblyInfo.cs
+c:\users\user\source\repos\CadastroCliente\CadastroCliente\obj\Debug\netcoreapp2.0\CadastroCliente.dll
+c:\users\user\source\repos\CadastroCliente\CadastroCliente\obj\Debug\netcoreapp2.0\CadastroCliente.pdb

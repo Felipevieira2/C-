@@ -1,0 +1,11 @@
+c:\users\user\source\repos\aluguelQuartos\aluguelQuartos\bin\Debug\netcoreapp2.0\aluguelQuartos.deps.json
+c:\users\user\source\repos\aluguelQuartos\aluguelQuartos\bin\Debug\netcoreapp2.0\aluguelQuartos.runtimeconfig.json
+c:\users\user\source\repos\aluguelQuartos\aluguelQuartos\bin\Debug\netcoreapp2.0\aluguelQuartos.runtimeconfig.dev.json
+c:\users\user\source\repos\aluguelQuartos\aluguelQuartos\bin\Debug\netcoreapp2.0\aluguelQuartos.dll
+c:\users\user\source\repos\aluguelQuartos\aluguelQuartos\bin\Debug\netcoreapp2.0\aluguelQuartos.pdb
+c:\users\user\source\repos\aluguelQuartos\aluguelQuartos\obj\Debug\netcoreapp2.0\aluguelQuartos.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\aluguelQuartos\aluguelQuartos\obj\Debug\netcoreapp2.0\aluguelQuartos.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\aluguelQuartos\aluguelQuartos\obj\Debug\netcoreapp2.0\aluguelQuartos.AssemblyInfoInputs.cache
+c:\users\user\source\repos\aluguelQuartos\aluguelQuartos\obj\Debug\netcoreapp2.0\aluguelQuartos.AssemblyInfo.cs
+c:\users\user\source\repos\aluguelQuartos\aluguelQuartos\obj\Debug\netcoreapp2.0\aluguelQuartos.dll
+c:\users\user\source\repos\aluguelQuartos\aluguelQuartos\obj\Debug\netcoreapp2.0\aluguelQuartos.pdb
