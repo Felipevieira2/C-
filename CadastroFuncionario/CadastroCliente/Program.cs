@@ -8,8 +8,8 @@ namespace CadastroFuncionario
         static void Main(string[] args)
         {   
 
-            Console.WriteLine("Quantos Clientes serão cadastrados? "); //Solicita a quantidade de Clientes 
-            int qtdFuncionarios = int.Parse(Console.ReadLine()); //Le a quantidade de Cliente
+            Console.WriteLine("Quantos Funcionários serão cadastrados? "); //Solicita a quantidade de Funcionarios 
+            int qtdFuncionarios = int.Parse(Console.ReadLine()); //Le a quantidade de Funcionarios
             List<Funcionario> ListaFuncionarios = new List<Funcionario>();
             for (int i = 0; i < qtdFuncionarios; i++) { //laço para preencher os dados 
                 Console.WriteLine("Digite o CPF do {0}º Funcionário: ", i+1);
