@@ -1,0 +1,11 @@
+C:\Users\felipe.evbarros\source\repos\CadastroDeArtistas\CadastroDeArtistas\bin\Debug\netcoreapp2.0\CadastroDeArtistas.deps.json
+C:\Users\felipe.evbarros\source\repos\CadastroDeArtistas\CadastroDeArtistas\bin\Debug\netcoreapp2.0\CadastroDeArtistas.runtimeconfig.json
+C:\Users\felipe.evbarros\source\repos\CadastroDeArtistas\CadastroDeArtistas\bin\Debug\netcoreapp2.0\CadastroDeArtistas.runtimeconfig.dev.json
+C:\Users\felipe.evbarros\source\repos\CadastroDeArtistas\CadastroDeArtistas\bin\Debug\netcoreapp2.0\CadastroDeArtistas.dll
+C:\Users\felipe.evbarros\source\repos\CadastroDeArtistas\CadastroDeArtistas\bin\Debug\netcoreapp2.0\CadastroDeArtistas.pdb
+C:\Users\felipe.evbarros\source\repos\CadastroDeArtistas\CadastroDeArtistas\obj\Debug\netcoreapp2.0\CadastroDeArtistas.csprojResolveAssemblyReference.cache
+C:\Users\felipe.evbarros\source\repos\CadastroDeArtistas\CadastroDeArtistas\obj\Debug\netcoreapp2.0\CadastroDeArtistas.csproj.CoreCompileInputs.cache
+C:\Users\felipe.evbarros\source\repos\CadastroDeArtistas\CadastroDeArtistas\obj\Debug\netcoreapp2.0\CadastroDeArtistas.AssemblyInfoInputs.cache
+C:\Users\felipe.evbarros\source\repos\CadastroDeArtistas\CadastroDeArtistas\obj\Debug\netcoreapp2.0\CadastroDeArtistas.AssemblyInfo.cs
+C:\Users\felipe.evbarros\source\repos\CadastroDeArtistas\CadastroDeArtistas\obj\Debug\netcoreapp2.0\CadastroDeArtistas.dll
+C:\Users\felipe.evbarros\source\repos\CadastroDeArtistas\CadastroDeArtistas\obj\Debug\netcoreapp2.0\CadastroDeArtistas.pdb
