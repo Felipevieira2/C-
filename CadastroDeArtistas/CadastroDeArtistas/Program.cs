@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using CadastroDeArtistas.dominio;
 namespace CadastroDeArtistas
 {
     class Program
     { 
         public static List<Artista> Artistas = new List<Artista>();
+        public static List<Filme> filmes = new List<Filme>();
         static void Main(string[] args)
         {
             
@@ -26,11 +28,24 @@ namespace CadastroDeArtistas
                         Tela.ListarProduto();
                         break;
                     case 2:
-                        Tela.CadastrarProduto();
+                        Tela.CadastrarArtista();
                         Console.ReadKey();
                         break;
-                    
-                    
+                    case 3:
+                        Tela.CadastrarFilme();
+                        break;
+                    case 4:
+                        Tela.MostrarFilme();
+                        break;                       
+                    case 8:
+                        for (int i = 0; i < filmes.Count; i++) {
+                            Console.WriteLine(filmes[i]);
+                            
+                        }
+                        Console.ReadKey();
+                        break;
+
+
                 }
 
             }

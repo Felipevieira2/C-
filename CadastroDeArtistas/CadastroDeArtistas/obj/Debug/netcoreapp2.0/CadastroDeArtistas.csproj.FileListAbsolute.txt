@@ -9,3 +9,14 @@ C:\Users\felipe.evbarros\source\repos\CadastroDeArtistas\CadastroDeArtistas\obj\
 C:\Users\felipe.evbarros\source\repos\CadastroDeArtistas\CadastroDeArtistas\obj\Debug\netcoreapp2.0\CadastroDeArtistas.AssemblyInfo.cs
 C:\Users\felipe.evbarros\source\repos\CadastroDeArtistas\CadastroDeArtistas\obj\Debug\netcoreapp2.0\CadastroDeArtistas.dll
 C:\Users\felipe.evbarros\source\repos\CadastroDeArtistas\CadastroDeArtistas\obj\Debug\netcoreapp2.0\CadastroDeArtistas.pdb
+C:\Users\SUPORTEHR\Documents\CSharp-master\CadastroDeArtistas\CadastroDeArtistas\obj\Debug\netcoreapp2.0\CadastroDeArtistas.csprojResolveAssemblyReference.cache
+C:\Users\SUPORTEHR\Documents\CSharp-master\CadastroDeArtistas\CadastroDeArtistas\obj\Debug\netcoreapp2.0\CadastroDeArtistas.csproj.CoreCompileInputs.cache
+C:\Users\SUPORTEHR\Documents\CSharp-master\CadastroDeArtistas\CadastroDeArtistas\obj\Debug\netcoreapp2.0\CadastroDeArtistas.AssemblyInfoInputs.cache
+C:\Users\SUPORTEHR\Documents\CSharp-master\CadastroDeArtistas\CadastroDeArtistas\obj\Debug\netcoreapp2.0\CadastroDeArtistas.AssemblyInfo.cs
+C:\Users\SUPORTEHR\Documents\CSharp-master\CadastroDeArtistas\CadastroDeArtistas\obj\Debug\netcoreapp2.0\CadastroDeArtistas.dll
+C:\Users\SUPORTEHR\Documents\CSharp-master\CadastroDeArtistas\CadastroDeArtistas\obj\Debug\netcoreapp2.0\CadastroDeArtistas.pdb
+C:\Users\SUPORTEHR\Documents\CSharp-master\CadastroDeArtistas\CadastroDeArtistas\bin\Debug\netcoreapp2.0\CadastroDeArtistas.deps.json
+C:\Users\SUPORTEHR\Documents\CSharp-master\CadastroDeArtistas\CadastroDeArtistas\bin\Debug\netcoreapp2.0\CadastroDeArtistas.runtimeconfig.json
+C:\Users\SUPORTEHR\Documents\CSharp-master\CadastroDeArtistas\CadastroDeArtistas\bin\Debug\netcoreapp2.0\CadastroDeArtistas.runtimeconfig.dev.json
+C:\Users\SUPORTEHR\Documents\CSharp-master\CadastroDeArtistas\CadastroDeArtistas\bin\Debug\netcoreapp2.0\CadastroDeArtistas.dll
+C:\Users\SUPORTEHR\Documents\CSharp-master\CadastroDeArtistas\CadastroDeArtistas\bin\Debug\netcoreapp2.0\CadastroDeArtistas.pdb

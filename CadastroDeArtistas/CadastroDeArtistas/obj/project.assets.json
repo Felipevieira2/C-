@@ -664,7 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\felipe.evbarros\\.nuget\\packages\\": {},
+    "C:\\Users\\SUPORTEHR\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,17 +673,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\felipe.evbarros\\source\\repos\\CadastroDeArtistas\\CadastroDeArtistas\\CadastroDeArtistas.csproj",
+      "projectUniqueName": "C:\\Users\\SUPORTEHR\\Documents\\CSharp-master\\CadastroDeArtistas\\CadastroDeArtistas\\CadastroDeArtistas.csproj",
       "projectName": "CadastroDeArtistas",
-      "projectPath": "C:\\Users\\felipe.evbarros\\source\\repos\\CadastroDeArtistas\\CadastroDeArtistas\\CadastroDeArtistas.csproj",
-      "packagesPath": "C:\\Users\\felipe.evbarros\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felipe.evbarros\\source\\repos\\CadastroDeArtistas\\CadastroDeArtistas\\obj\\",
+      "projectPath": "C:\\Users\\SUPORTEHR\\Documents\\CSharp-master\\CadastroDeArtistas\\CadastroDeArtistas\\CadastroDeArtistas.csproj",
+      "packagesPath": "C:\\Users\\SUPORTEHR\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SUPORTEHR\\Documents\\CSharp-master\\CadastroDeArtistas\\CadastroDeArtistas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\felipe.evbarros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SUPORTEHR\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -709,7 +709,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },
